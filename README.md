@@ -1,5 +1,8 @@
 # Module 8 Server-Side APIs: Weather Dashboard
 
+![image](https://user-images.githubusercontent.com/119360569/217376506-9813aa7f-48d6-4c3d-ad2e-64b73bdc91ec.png)
+
+
 ## Your Task
 
 Server APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
